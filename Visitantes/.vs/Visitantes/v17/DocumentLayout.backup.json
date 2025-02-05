@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\Visitantes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{795F1171-C14B-4FB1-A6C0-7A18243CF341}|Visitantes.WebApi\\Visitantes.WebApi.csproj|c:\\users\\dell\\source\\repos\\visitantes\\visitantes.webapi\\controllers\\visitantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795F1171-C14B-4FB1-A6C0-7A18243CF341}|Visitantes.WebApi\\Visitantes.WebApi.csproj|solutionrelative:visitantes.webapi\\controllers\\visitantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795F1171-C14B-4FB1-A6C0-7A18243CF341}|Visitantes.WebApi\\Visitantes.WebApi.csproj|c:\\users\\dell\\source\\repos\\visitantes\\visitantes.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{795F1171-C14B-4FB1-A6C0-7A18243CF341}|Visitantes.WebApi\\Visitantes.WebApi.csproj|solutionrelative:visitantes.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD16BDC4-50B7-4D34-853C-FED19CB98D41}|Oracle.DataAccess\\Oracle.DataAccess.csproj|c:\\users\\dell\\source\\repos\\visitantes\\oracle.dataaccess\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD16BDC4-50B7-4D34-853C-FED19CB98D41}|Oracle.DataAccess\\Oracle.DataAccess.csproj|solutionrelative:oracle.dataaccess\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795F1171-C14B-4FB1-A6C0-7A18243CF341}|Visitantes.WebApi\\Visitantes.WebApi.csproj|c:\\users\\dell\\source\\repos\\visitantes\\visitantes.webapi\\controllers\\menu_itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795F1171-C14B-4FB1-A6C0-7A18243CF341}|Visitantes.WebApi\\Visitantes.WebApi.csproj|solutionrelative:visitantes.webapi\\controllers\\menu_itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD16BDC4-50B7-4D34-853C-FED19CB98D41}|Oracle.DataAccess\\Oracle.DataAccess.csproj|c:\\users\\dell\\source\\repos\\visitantes\\oracle.dataaccess\\models\\visitante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD16BDC4-50B7-4D34-853C-FED19CB98D41}|Oracle.DataAccess\\Oracle.DataAccess.csproj|solutionrelative:oracle.dataaccess\\models\\visitante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795F1171-C14B-4FB1-A6C0-7A18243CF341}|Visitantes.WebApi\\Visitantes.WebApi.csproj|c:\\users\\dell\\source\\repos\\visitantes\\visitantes.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795F1171-C14B-4FB1-A6C0-7A18243CF341}|Visitantes.WebApi\\Visitantes.WebApi.csproj|solutionrelative:visitantes.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 267,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "visitantesController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Visitantes\\Visitantes.WebApi\\Controllers\\visitantesController.cs",
+              "RelativeDocumentMoniker": "Visitantes.WebApi\\Controllers\\visitantesController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Visitantes\\Visitantes.WebApi\\Controllers\\visitantesController.cs",
+              "RelativeToolTip": "Visitantes.WebApi\\Controllers\\visitantesController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAkwG8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T23:58:11.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "menu_itemsController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Visitantes\\Visitantes.WebApi\\Controllers\\menu_itemsController.cs",
+              "RelativeDocumentMoniker": "Visitantes.WebApi\\Controllers\\menu_itemsController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Visitantes\\Visitantes.WebApi\\Controllers\\menu_itemsController.cs",
+              "RelativeToolTip": "Visitantes.WebApi\\Controllers\\menu_itemsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T23:26:46.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Visitantes\\Oracle.DataAccess\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "Oracle.DataAccess\\Models\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Visitantes\\Oracle.DataAccess\\Models\\MenuItem.cs",
+              "RelativeToolTip": "Oracle.DataAccess\\Models\\MenuItem.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:54:59.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Visitante.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Visitantes\\Oracle.DataAccess\\Models\\Visitante.cs",
+              "RelativeDocumentMoniker": "Oracle.DataAccess\\Models\\Visitante.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Visitantes\\Oracle.DataAccess\\Models\\Visitante.cs",
+              "RelativeToolTip": "Oracle.DataAccess\\Models\\Visitante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:52:11.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Visitantes\\Visitantes.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Visitantes.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Visitantes\\Visitantes.WebApi\\Program.cs",
+              "RelativeToolTip": "Visitantes.WebApi\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T23:58:46.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Visitantes\\Visitantes.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Visitantes.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Visitantes\\Visitantes.WebApi\\appsettings.json",
+              "RelativeToolTip": "Visitantes.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T23:55:31.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

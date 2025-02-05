@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\Visitantes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{795F1171-C14B-4FB1-A6C0-7A18243CF341}|Visitantes.WebApi\\Visitantes.WebApi.csproj|c:\\users\\dell\\source\\repos\\visitantes\\visitantes.webapi\\controllers\\visitantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795F1171-C14B-4FB1-A6C0-7A18243CF341}|Visitantes.WebApi\\Visitantes.WebApi.csproj|solutionrelative:visitantes.webapi\\controllers\\visitantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795F1171-C14B-4FB1-A6C0-7A18243CF341}|Visitantes.WebApi\\Visitantes.WebApi.csproj|c:\\users\\dell\\source\\repos\\visitantes\\visitantes.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{795F1171-C14B-4FB1-A6C0-7A18243CF341}|Visitantes.WebApi\\Visitantes.WebApi.csproj|solutionrelative:visitantes.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD16BDC4-50B7-4D34-853C-FED19CB98D41}|Oracle.DataAccess\\Oracle.DataAccess.csproj|c:\\users\\dell\\source\\repos\\visitantes\\oracle.dataaccess\\models\\modelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD16BDC4-50B7-4D34-853C-FED19CB98D41}|Oracle.DataAccess\\Oracle.DataAccess.csproj|solutionrelative:oracle.dataaccess\\models\\modelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD16BDC4-50B7-4D34-853C-FED19CB98D41}|Oracle.DataAccess\\Oracle.DataAccess.csproj|c:\\users\\dell\\source\\repos\\visitantes\\oracle.dataaccess\\models\\visitante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD16BDC4-50B7-4D34-853C-FED19CB98D41}|Oracle.DataAccess\\Oracle.DataAccess.csproj|solutionrelative:oracle.dataaccess\\models\\visitante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD16BDC4-50B7-4D34-853C-FED19CB98D41}|Oracle.DataAccess\\Oracle.DataAccess.csproj|c:\\users\\dell\\source\\repos\\visitantes\\oracle.dataaccess\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD16BDC4-50B7-4D34-853C-FED19CB98D41}|Oracle.DataAccess\\Oracle.DataAccess.csproj|solutionrelative:oracle.dataaccess\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 267,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "visitantesController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Visitantes\\Visitantes.WebApi\\Controllers\\visitantesController.cs",
+              "RelativeDocumentMoniker": "Visitantes.WebApi\\Controllers\\visitantesController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Visitantes\\Visitantes.WebApi\\Controllers\\visitantesController.cs",
+              "RelativeToolTip": "Visitantes.WebApi\\Controllers\\visitantesController.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAtwIsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T04:51:03.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Visitantes\\Visitantes.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Visitantes.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Visitantes\\Visitantes.WebApi\\appsettings.json",
+              "RelativeToolTip": "Visitantes.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-05T04:50:47.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModelContext.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Visitantes\\Oracle.DataAccess\\Models\\ModelContext.cs",
+              "RelativeDocumentMoniker": "Oracle.DataAccess\\Models\\ModelContext.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Visitantes\\Oracle.DataAccess\\Models\\ModelContext.cs",
+              "RelativeToolTip": "Oracle.DataAccess\\Models\\ModelContext.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswB0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T04:49:23.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Visitante.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Visitantes\\Oracle.DataAccess\\Models\\Visitante.cs",
+              "RelativeDocumentMoniker": "Oracle.DataAccess\\Models\\Visitante.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Visitantes\\Oracle.DataAccess\\Models\\Visitante.cs",
+              "RelativeToolTip": "Oracle.DataAccess\\Models\\Visitante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T04:49:12.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Visitantes\\Oracle.DataAccess\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "Oracle.DataAccess\\Models\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Visitantes\\Oracle.DataAccess\\Models\\MenuItem.cs",
+              "RelativeToolTip": "Oracle.DataAccess\\Models\\MenuItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T04:48:43.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+﻿@model Visitante
+@{
+    ViewData["Title"] = "Visitante";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-header">
+        @ViewBag.Accion
+    </div>
+    <div class="card-body">
+
+        <form asp-action="GuardarCambios" asp-controller="Home" method="post">
+
+            <div class="mb-2">
+                <label class="form-label">Dui</label>
+                <input type="text" class="form-control form-control-sm" asp-for="Dui" />
+            </div>
+            <div class="mb-2">
+                <label class="form-label">Nombre</label>
+                <input type="text" class="form-control form-control-sm" asp-for="Nombre" />
+            </div>
+            <div class="mb-2">
+                <label class="form-label">Email</label>
+                <input type="text" class="form-control form-control-sm" asp-for="Email" />
+            </div>
+            <div class="mb-2">
+                <label class="form-label">FechaNacimiento</label>
+                <input type="text" class="form-control form-control-sm" asp-for="FechaNacimiento" />
+            </div>
+            <div class="mb-2">
+                <label class="form-label">Telefono</label>
+                <input type="text" class="form-control form-control-sm" asp-for="Telefono" />
+            </div>
+            <div class="mb-2">
+                <label class="form-label">Generacion</label>
+                <input type="text" class="form-control form-control-sm" asp-for="Generacion" readonly/>
+            </div>
+
+            <button type="submit" class="btn btn-success btn-sm">Guardar Cambios</button>
+            <a asp-action="Index" asp-controller="Home" class="btn btn-warning btn-sm">Volver a lista</a>
+        </form>
+
+
+
+
+    </div>
+
+</div>

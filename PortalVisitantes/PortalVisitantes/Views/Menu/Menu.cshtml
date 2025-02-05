@@ -1,0 +1,41 @@
+﻿@model MenuItem
+@{
+    ViewData["Title"] = "Menu";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-header">
+        @ViewBag.Accion
+    </div>
+    <div class="card-body">
+
+        <form asp-action="GuardarCambios" asp-controller="Menu" method="post">
+
+            <div class="mb-2">
+                <label class="form-label">Id</label>
+                <input type="text" class="form-control form-control-sm" asp-for="Id" />
+            </div>
+            <div class="mb-2">
+                <label class="form-label">Nombre</label>
+                <input type="text" class="form-control form-control-sm" asp-for="Nombre" />
+            </div>
+            <div class="mb-2">
+                <label class="form-label">Url</label>
+                <input type="text" class="form-control form-control-sm" asp-for="Url" />
+            </div>
+            <div class="mb-2">
+                <label class="form-label">PadreId</label>
+                <input type="text" class="form-control form-control-sm" asp-for="PadreId" />
+            </div>
+
+            <button type="submit" class="btn btn-success btn-sm">Guardar Cambios</button>
+            <a asp-action="Index" asp-controller="Menu" class="btn btn-warning btn-sm">Volver a lista</a>
+        </form>
+
+
+
+
+    </div>
+
+</div>

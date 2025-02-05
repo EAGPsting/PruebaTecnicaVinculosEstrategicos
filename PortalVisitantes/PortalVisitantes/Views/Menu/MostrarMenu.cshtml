@@ -1,0 +1,58 @@
+﻿@model List<PortalVisitantes.Models.MenuItem>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menú</title>
+    <style>
+        /* Estilos básicos para mostrar el menú en forma de árbol */
+        ul {
+            list-style-type: none;
+        }
+
+        li {
+            margin: 5px 0;
+        }
+
+        .submenu {
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Menú</h2>
+
+    <ul>
+        @foreach (var item in Model)
+        {
+            <li>
+                <a href="@item.Url">@item.Nombre</a>
+                @if (item.InversePadre != null && item.InversePadre.Any())
+                {
+                    <ul class="submenu">
+                        @foreach (var subItem in item.InversePadre)
+                        {
+                            <li>
+                                <a href="@subItem.Url">@subItem.Nombre</a>
+                                @if (subItem.InversePadre != null && subItem.InversePadre.Any())
+                                {
+                                    <ul class="submenu">
+                                        @foreach (var subSubItem in subItem.InversePadre)
+                                        {
+                                            <li>
+                                                <a href="@subSubItem.Url">@subSubItem.Nombre</a>
+                                            </li>
+                                        }
+                                    </ul>
+                                }
+                            </li>
+                        }
+                    </ul>
+                }
+            </li>
+        }
+    </ul>
+</body>
+</html>

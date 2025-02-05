@@ -1,0 +1,46 @@
+﻿@model List<MenuItem>
+@{
+    ViewData["Title"] = "Menu Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+</div>
+
+<div class="card">
+    <div class="card-header">
+        Lista de Menu
+    </div>
+    <div class="card-body">
+
+        <a asp-action="Menu" asp-controller="Menu" asp-route-id=0 class="btn btn-success btn-sm">Nuevo Menu</a>
+        <hr />
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Nombre</th>
+                    <th>Url</th>
+                    <th>PadreId</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.Nombre</td>
+                        <td>@item.Url</td>
+                        <td>@item.PadreId</td>
+                        <td>
+                            <a asp-action="Menu" asp-controller="Menu" asp-route-id="@item.Id" class="btn btn-primary btn-sm">Editar</a>
+                            <a asp-action="Eliminar" asp-controller="Menu" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Eliminar</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+

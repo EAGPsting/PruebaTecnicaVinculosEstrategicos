@@ -1,0 +1,12 @@
+C:\Users\dell\source\repos\Visitantes\Oracle.DataAccess\bin\Debug\net8.0\Oracle.DataAccess.deps.json
+C:\Users\dell\source\repos\Visitantes\Oracle.DataAccess\bin\Debug\net8.0\Oracle.DataAccess.dll
+C:\Users\dell\source\repos\Visitantes\Oracle.DataAccess\bin\Debug\net8.0\Oracle.DataAccess.pdb
+C:\Users\dell\source\repos\Visitantes\Oracle.DataAccess\obj\Debug\net8.0\Oracle.DataAccess.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Visitantes\Oracle.DataAccess\obj\Debug\net8.0\Oracle.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Visitantes\Oracle.DataAccess\obj\Debug\net8.0\Oracle.DataAccess.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Visitantes\Oracle.DataAccess\obj\Debug\net8.0\Oracle.DataAccess.AssemblyInfo.cs
+C:\Users\dell\source\repos\Visitantes\Oracle.DataAccess\obj\Debug\net8.0\Oracle.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Visitantes\Oracle.DataAccess\obj\Debug\net8.0\Oracle.DataAccess.dll
+C:\Users\dell\source\repos\Visitantes\Oracle.DataAccess\obj\Debug\net8.0\refint\Oracle.DataAccess.dll
+C:\Users\dell\source\repos\Visitantes\Oracle.DataAccess\obj\Debug\net8.0\Oracle.DataAccess.pdb
+C:\Users\dell\source\repos\Visitantes\Oracle.DataAccess\obj\Debug\net8.0\ref\Oracle.DataAccess.dll
